@@ -1,11 +1,13 @@
 /** @format */
 
-import "./App.css";
+import Hero from "./Components/Hero";
 
 function App() {
   return (
     <>
-      <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+      <div className='bg-white max-w-[1280px] mx-auto my-0 text-center p-[2rem]'>
+        <Hero />
+      </div>
     </>
   );
 }
