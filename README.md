@@ -2,7 +2,7 @@
 
 # Personal Portfolio Project
 
-A personal portfolio project built with **React** and **Tailwind CSS**, inspired by a tweet [insert link]. This project focuses on sharpening design skills, creating a clean, modern layout to showcase work and experience in a visually appealing way.
+A personal portfolio project built with **React** and **Tailwind CSS**, inspired by a tweet tweet [here](https://x.com/ItsRuthjebet/status/1852039493953446032). This project focuses on sharpening design skills, creating a clean, modern layout to showcase work and experience in a visually appealing way.
 
 ---
 
